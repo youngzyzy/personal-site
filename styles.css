@@ -306,6 +306,8 @@ body {
 .project__image {
   height: 70%;
   width: 100%;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 .project__image img {
   width: 100%;
