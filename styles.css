@@ -424,7 +424,7 @@ body {
     gap: 2rem;
   }
   .about {
-    padding: 1rem 2rem 2rem;
+    padding: 2rem 2rem 2rem;
   }
   .more__main-heading {
     margin-bottom: 0rem;
@@ -442,6 +442,9 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+  .contact {
+    padding: 1rem 0rem 20rem;
   }
 }
 @media (max-width: 900px) {
