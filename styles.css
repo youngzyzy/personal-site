@@ -286,7 +286,7 @@ body {
   padding: 5rem 0rem;
 }
 .projects__container {
-  padding: 4rem 2rem;
+  padding: 2rem 2rem 4rem;
   max-width: 1100px;
   margin: 0 auto;
 
@@ -362,7 +362,7 @@ body {
 }
 /* contact */
 .contact {
-  padding: 5rem 0rem 10rem;
+  padding: 5rem 0rem 20rem;
 }
 .contact__container {
   max-width: 1100px;
@@ -478,9 +478,7 @@ body {
   .experience__box {
     min-width: 310px;
   }
-  .contact__container-info p {
-    font-size: 0.9rem;
-  }
+
   .contact__container-info i {
     font-size: 1.5rem;
   }
@@ -493,5 +491,8 @@ body {
 
   .contact__container {
     gap: 0.5rem;
+  }
+  .contact {
+    padding: 5rem 0rem 10rem;
   }
 }
