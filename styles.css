@@ -102,7 +102,7 @@ body {
   gap: 4rem;
 }
 .about__image img {
-  max-width: 350px;
+  max-width: 300px;
   height: auto;
   border-radius: 50%;
 }
