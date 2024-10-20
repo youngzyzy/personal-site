@@ -273,7 +273,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 0.2rem;
-  min-height: 190px;
+  min-height: 220px;
   width: 400px;
 }
 .experience__header-h2 {
